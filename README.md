@@ -7,3 +7,15 @@ This program is designed to raid discord servers. However, it is at your risk if
 # Previews
 
 https://hentai.hvh.software/aaFDA29.png
+
+# Usage
+First you need to download Python and check add to path 
+
+Open CMD and type in
+pip install requests
+
+1. Put your tokens in Tokens.txt
+2. Open main.py 
+3. Type 1 / 2 
+
+Connects to discord servers (you must specify the end of discord invite exaple VvxQGsvZ)
